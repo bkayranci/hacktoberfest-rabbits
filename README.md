@@ -20,3 +20,4 @@ Feel free to add your rabbit's photo and submit a PR.
 - [Hacktoberfest Dogs](https://github.com/bkayranci/hacktoberfest-dogs)
 - [Hacktoberfest Birds](https://github.com/bkayranci/hacktoberfest-birds)
 - [Hacktoberfest Rabbits](https://github.com/bkayranci/hacktoberfest-rabbits)
+- [Hacktoberfest Butterfly](https://github.com/bkayranci/hacktoberfest-butterfly)
